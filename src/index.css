@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.titulo{
+    display: flex;
+    color: white;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: xx-large;
+}
+
+
+
+
+
+
+
